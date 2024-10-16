@@ -1,4 +1,4 @@
---creates a trigger that resets the attribute valid_email only when changed
+-- creates a trigger that resets the attribute valid_email only when changed
 DELIMITER $$
 
 CREATE TRIGGER validate_email_change
