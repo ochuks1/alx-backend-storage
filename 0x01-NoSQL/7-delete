@@ -1,0 +1,3 @@
+// Script to count all documents in the school collection
+use my_db;
+db.schools.countDocuments({});
